@@ -3,11 +3,11 @@
  * @Author: shaonianruntu
  * @Github: https://github.com/shaonianruntu
  * @Date: 2020-11-07 11:31:57
- * @LastEditTime: 2020-11-07 20:13:41
+ * @LastEditTime: 2020-11-07 20:17:33
 -->
 # FACE PARSING
 
-The parsing structure acquisition and joint output of face.
+Face parsing structure acquisition and joint output.
 
 ## Code Description
 
