@@ -5,9 +5,7 @@
  * @Date: 2020-11-07 11:31:57
  * @LastEditTime: 2020-11-07 20:17:33
 -->
-# FACE PARSING
-
-Face parsing structure acquisition and joint output.
+# Face component segmentation based on Bisnet v2
 
 ## Code Description
 
